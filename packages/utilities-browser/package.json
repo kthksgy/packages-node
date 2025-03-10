@@ -32,7 +32,7 @@
   "module": "./lib/index.js",
   "name": "@kthksgy/utilities-browser",
   "peerDependencies": {
-    "@kthksgy/utilities": "~0.1.0"
+    "@kthksgy/utilities": "~0.1.1"
   },
   "repository": {
     "directory": "packages/utilities-browser",
